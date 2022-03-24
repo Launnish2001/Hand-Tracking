@@ -5,6 +5,6 @@ and further using the same to create two projects namely Fingers Counter & Hand 
 
 For further information on project go through the Project Report in the current repository.
 
-References: https://youtu.be/NZde8Xt78Iw(Hand Tracking Model)
+References: https://youtu.be/NZde8Xt78Iw  (Hand Tracking Model)
 
 
